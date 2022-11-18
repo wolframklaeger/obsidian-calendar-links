@@ -1,0 +1,24 @@
+{
+  "pinned": [
+    "workspace:undo-close-pane",
+    "workspace:split-vertical",
+    "open-with-default-app:show",
+    "obsidian-style-settings:show-style-settings-leaf",
+    "app:toggle-left-sidebar",
+    "app:toggle-right-sidebar",
+    "editor:insert-embed",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:focus-left",
+    "editor:focus-right",
+    "editor:follow-link",
+    "editor:open-link-in-new-leaf",
+    "media-extended:take-rec-timestamp",
+    "media-extended:open-media-link",
+    "media-extended:get-timestamp",
+    "templater-obsidian:create-new-note-from-template",
+    "templater-obsidian:insert-templater",
+    "templater-obsidian:jump-to-next-cursor-location",
+    "templater-obsidian:replace-in-file-templater"
+  ]
+}

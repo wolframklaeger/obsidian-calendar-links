@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Roboto",
+  "textFontFamily": "Roboto",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "test",
+    "wo-snippets"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "accentColor": "#575757",
+  "showViewHeader": true,
+  "nativeMenus": false
+}

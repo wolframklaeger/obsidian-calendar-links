@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "7ba9722e8f62ea20",
+    "type": "split",
+    "children": [
+      {
+        "id": "09fdc086178cbe24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ccd7c449ed9e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KALENDER/TAGE/2022 11 16.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bafd5041d00909e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f2282f4e75d8095c",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "84855289a0436d86",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c6bfaedf48b02880",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#task",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "713e187328345421",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4027f43e94d13480",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "b065fa36475d9cad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8e48c67be9fc4f62",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "KALENDER/TAGE/2022 11 16.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d1ccc462d0f36b12",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "KALENDER/TAGE/2022 11 16.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5d1a18ed59800fc8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "a4ccd7c449ed9e7a",
+  "lastOpenFiles": [
+    "KALENDER/TAGE/2022 11 15.md",
+    "KALENDER/TAGE/2022 11 16.md",
+    "KALENDER/TAGE/2022 11 17.md",
+    "KALENDER/TAGE/2022 11 14.md",
+    "KALENDER/TAGE/2022 11 13.md",
+    "KALENDER/TAGE/2022 11 12.md",
+    "KALENDER/TAGE/2022 11 11.md",
+    "KALENDER/TAGE/2022 11 19.md",
+    "NEU/Mastodon tutorial.md",
+    "NEU/WP Mastodon integration.md"
+  ]
+}

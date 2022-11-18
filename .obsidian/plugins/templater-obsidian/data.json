@@ -1,0 +1,50 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "TP",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "TP/NOTE Template.md"
+    },
+    {
+      "folder": "CALENDAR/DAYS",
+      "template": "TP/C DAY Template.md"
+    },
+    {
+      "folder": "CALENDAR/WEEKS",
+      "template": "TP/C WEEK Template.md"
+    },
+    {
+      "folder": "CALENDAR/MONTHS",
+      "template": "TP/C MONTH Template.md"
+    },
+    {
+      "folder": "CALENDAR/QUARTERS",
+      "template": "TP/C QUARTER Template.md"
+    },
+    {
+      "folder": "CALENDAR/YEARS",
+      "template": "TP/C YEAR Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "7ba9722e8f62ea20",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1115e49a65d6878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24cd787c0d48c699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CALENDAR/YEARS/2022.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1c045f5731329f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ec18756091687f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae94644e6999b540",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "6366d7ff55a6be6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d21789f45be2adf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "affiliate",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5bb02633c5cf3dc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "19ab477623c7e185",
+    "type": "split",
+    "children": [
+      {
+        "id": "3224211fcb611dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de48ec8949af75bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CALENDAR/YEARS/2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ef1a31b0309b1a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CALENDAR/YEARS/2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "671ab5442bb58199",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "14f028dbfc642828",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "active": "24cd787c0d48c699",
+  "lastOpenFiles": [
+    "CALENDAR/QUARTERS/2022 Q4.md",
+    "CALENDAR/MONTHS/2022 11.md",
+    "CALENDAR/WEEKS/2022 W46.md",
+    "CALENDAR/DAYS/2022 11 17.md",
+    "CALENDAR/YEARS/2022.md",
+    "TP/NOTE Template.md",
+    "CALENDAR/DAYS/2022 11 19.md",
+    "TP/C DAY Template.md",
+    "TP/C YEAR Template.md",
+    "TP/C WEEK Template.md"
+  ]
+}

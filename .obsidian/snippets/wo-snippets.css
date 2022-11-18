@@ -1,0 +1,262 @@
+
+.theme-dark {
+
+  /* Active Tab */
+  --background-primary: #000a15 !important;
+
+  /* Codeblocks */
+  --background-primary-alt: #0c121c !important;
+
+  /* Left: File Explorer */
+  --background-secondary: #000a15 !important;
+
+  --background-secondary-alt: #00ff00 !important;
+}
+
+
+/* Active pane, background colors */
+
+.markdown-source-view {
+  color: #aaaaac !important;
+  background-color: #070c15 !important;
+}
+
+.markdown-preview-view {
+  color: #aaaaac !important;
+  background-color: #000a15 !important;
+}
+
+
+/* Highlight EDITOR */
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: transparent;
+    color: #999988;
+    opacity: 1.0 !important;
+}
+
+/* Highlight PREVIEW */
+
+.markdown-preview-view mark {
+    background-color: transparent;
+    color: #999988;
+    opacity: 1.0 !important;
+}
+
+
+/*
+  Keep content left, limit width to max. 65 characters,
+  depending on font-size. Be sure, Settings > Editor >
+  Line Wrap is *ON*
+*/
+
+.markdown-source-view,
+.markdown-preview-view {
+  max-width: 640px !important;
+  margin-left: 0px !important;
+  margin-right: auto;
+}
+
+
+/* Text selection */
+
+.theme-dark {
+  --text-selection: #002171 !important;
+    opacity: 1.0 !important;
+}
+
+
+/* Header = inline title + YAML frontmatter */
+
+.inline-title,
+.markdown-source-view .inline-title {
+  color: #999988 !important;
+  font-size: 24px !important;
+  font-weight: 500 !important;
+  line-height: 1.5rem !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.inline-title:hover,
+.markdown-source-view .inline-title:hover {
+  color: #ffffff !important;
+}
+.cm-hmd-frontmatter {
+  color: #999988 !important;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  line-height: 1rem !important;
+}
+
+
+/* TOOLTIPS */
+
+.tooltip {
+  color: #ffffff;
+  background-color: #163947;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: .8rem;
+  text-align: left;
+  padding: 3px;
+}
+
+/* Disable left sidebar tooltips, including File Explorer */
+.tooltip.mod-right {
+  display: none;
+}
+
+
+/* File Explorer: ignore desktop.ini files */
+
+  .nav-file .nav-file-title[data-path*=".ini"] {
+  display: none;
+}
+
+
+/* Headings EDIT Mode */
+
+.cm-s-obsidian .HyperMD-header.HyperMD-header-1 {
+  color: #6699AD;
+  padding: 14px 0 10px 0;
+  --h1-variant:normal;
+  font-size: 28px !important;
+}
+.cm-s-obsidian .HyperMD-header.HyperMD-header-2 {
+  color: #6699AD;
+  padding: 14px 0 10px 0;
+  --h2-variant:normal;
+  font-size: 24px !important;
+}
+.cm-s-obsidian .HyperMD-header.HyperMD-header-3 {
+  color: #6699AD;
+  padding: 14px 0 10px 0;
+  --h3-variant:normal;
+  font-size: 20px !important;
+}
+.cm-s-obsidian .HyperMD-header.HyperMD-header-4 {
+  color: #6699AD;
+  padding: 14px 0 10px 0;
+  --h4-variant:normal;
+  font-size: 16px !important;
+}
+.cm-s-obsidian .HyperMD-header.HyperMD-header-5 {
+  color: #999988;
+  padding: 14px 0 10px 0;
+  --h5-variant:normal;
+  font-size: 14px !important;
+}
+.cm-s-obsidian .HyperMD-header.HyperMD-header-6 {
+  --h6-variant:normal;
+  color: #999988;
+  padding: 0 0 0 0;
+  font-size: 14px !important;
+}
+
+
+/* Headings LIVE Mode */
+
+h1 {
+  /* normal is: undo capitals */
+  --h1-variant:normal;
+  font-size: 28px !important;
+  color: #6699AD !important;
+}
+h2 {
+  --h2-variant:normal;
+  font-size: 24px !important;
+  color: #6699AD !important;
+}
+h3 {
+  --h3-variant:normal;
+  font-size: 20px !important;
+  color: #6699AD !important;
+}
+h4 {
+  --h4-variant:normal;
+  font-size: 16px !important;
+  color: #6699AD !important;
+}
+h5 {
+  --h5-variant:normal;
+  font-size: 12px !important;
+  color: #999988 !important;
+}
+h6 {
+  --h6-variant:normal;
+  font-size: 12px !important;
+  color: #999988 !important;
+}
+
+
+/* LINKS */
+
+/* Preview */
+.internal-link {
+  text-decoration: none !important;
+  color: #2b718e;
+}
+.internal-link:hover {
+  color: #ADDBFF;
+}
+
+.external-link {
+  text-decoration: none !important;
+  color: #c0ba8a;
+}
+.external-link:hover {
+  color: #F0E9AC !important;
+}
+
+/* Internal link, create on click */
+.is-unresolved {
+  color: #ADDBFF !important;
+  background-color: #407F99 !important;
+  text-decoration: none !important;
+  opacity: 1.0 !important;
+}
+.is-unresolved:hover {
+  color: #407F99 !important;
+  background-color: #ADDBFF !important;
+  opacity: 1.0 !important;
+}
+
+
+/* Edit */
+
+/* Internal link, brackets [[ ]] */
+.cm-s-obsidian span.cm-formatting-link {
+  color: #00ffFF !important;
+}
+/* Internal link, filename */
+.cm-s-obsidian span.cm-hmd-internal-link {
+  text-decoration: none !important;
+  color: #163947;
+}
+/* Internal link, filename hover */
+.cm-s-obsidian span.cm-hmd-internal-link:hover {
+  color: #2B718E;
+}
+
+
+/* External link: [Link]... */
+
+.cm-s-obsidian span.cm-link {
+  text-decoration: none !important;
+  color: #F0E9AC !important;
+}
+.cm-s-obsidian span.cm-link:hover {
+  color: #F0E9AC !important;
+}
+
+/* External link: ...(URL) */
+
+.cm-s-obsidian span.cm-url {
+  text-decoration: none !important;
+  color: #908C67 !important;
+}
+.cm-s-obsidian span.cm-url:hover {
+  color: #908C67 !important;
+}
