@@ -1,11 +1,11 @@
 ![obsidian-calendar-links](cover.png)
 
 # obsidian-calendar-links
-obsidian-calendar-links is a vault (folder) for the **note-taking app Obsidian (Obsidian.md)**, including all required plugins, settings, and templates.
+obsidian-calendar-links is a vault (data folder) for the **note-taking app Obsidian (Obsidian.md)**, including all required plugins, settings, and templates - as documented in my [blogpost: To-Do List Calendar Links in Obsidian](https://generateclicks.net/to-do-list-calendar-links/)
 
-Create a note for **each day, week, month, quarter, year**, that is automatically linked within your entire calendar.
+For **each day, week, month, quarter, year**, a *calendar-note* can be created, that is automatically linked within your entire calendar.
 
-Each such calendar-note includes a **to-do-list**, divided into
+Each such calendar-note includes a **to-do list**, divided into sections
 
 - due (today, this week, ... year)
 - scheduled (...)
@@ -13,11 +13,11 @@ Each such calendar-note includes a **to-do-list**, divided into
 - Backlog
 - Someday
 
-Any task, that you set, anywhere in your vault, by using the standard Markdown-format
+Any task, that you set anywhere in your vault, by using the standard Markdown-format e.g.
 
 - [ ] description due-date done-date
 
-is captured by these to-do-lists, and will reappear in the corresponding calendar notes and sections.  Moreover, all your to-do-lists are *automatically aggregated* from day, week, ... to year.
+is captured by these to-do lists and will reappear in the corresponding calendar-notes and sections.  Moreover, all your to-do lists are *automatically aggregated* from day, week, ... to year.
 
 The task management functionality is provided by the Obsidian Community-Plugin [**Obsidian-Tasks**](https://github.com/obsidian-tasks-group/obsidian-tasks) .
 
